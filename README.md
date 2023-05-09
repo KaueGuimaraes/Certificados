@@ -8,6 +8,8 @@ Fundador e Instrutor da Danki Code / Curso de Desenvolvimento de Games completo"
 <img src="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/html-basico%20-%20Copia.jpg" alt="Fundação bradesco | escola virtual / Certificado de conclusão / Certificamos que KAUÊ ARAÚJO GUIMARÃES concluiu o curso de HTML -
 BÁSICO, com carga horária de 11 hora(s), no período de 01.04.2022 a 07.04.2022. / Osasco, 07 de abril de 2022. / Código de Autenticidade: 8CD530DA-344E-45ED-AD32-EE20DF024EAC ou utilize o QR Code no portal da EV / Kauê Araújo Guimarães Aluno (a)">
 
+<img src ="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/git-github.jpg" alt="Curso em vídeo / Certificado / Certificamos que / Kauê Guimarães / Assistiu vídeo-aualas do curso / GIT E GITHUB [20 horas] / Com duração de 20 horas / Com aproveitamento superior a 70% / 20 de agosto de 2021 / Código do certificado 238DC-A18C-3 / *Certificado válido, amparado pela lei número 9.394 de Diretrizes e Bases da Educação Nacional Digirati Inofrmática, Serviços E Telecomuniações LTDA - CNPJ: 04.371.843/0001-55">
+
 <img src="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/html-01.jpg" alt="cursoemvideo / Certificado / Certificamos que / Kauê Guimarães / Assistiu video-aulas do curso / HTML5 E CSS3: MÓDULO 1 de 5 [VIP] / Com duração de 40 horas / Com aproveitamento superior a 70% / 29 de abril de 2023 / Código do Certificado: 238DC-C003-4 / *Certificado válido, amparado pela Lei nº 9.394 de Diretrizes e Bases da Educação Nacional
 Digirati Informática, Serviços E Telecomunicações LTDA – CNPJ: 04.371.843/0001-55">
 
