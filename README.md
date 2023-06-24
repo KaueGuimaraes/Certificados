@@ -13,5 +13,8 @@ BÁSICO, com carga horária de 11 hora(s), no período de 01.04.2022 a 07.04.202
 <img src="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/html-01.jpg" alt="cursoemvideo / Certificado / Certificamos que / Kauê Guimarães / Assistiu video-aulas do curso / HTML5 E CSS3: MÓDULO 1 de 5 [VIP] / Com duração de 40 horas / Com aproveitamento superior a 70% / 29 de abril de 2023 / Código do Certificado: 238DC-C003-4 / *Certificado válido, amparado pela Lei nº 9.394 de Diretrizes e Bases da Educação Nacional
 Digirati Informática, Serviços E Telecomunicações LTDA – CNPJ: 04.371.843/0001-55">
 
+<img src="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/python-02.jpg" alt="cursoemvideo / Certificado / Certificamos que / Kauê Guimarães / Assistiu vídeo-aulas do curso / PYTHON 2 - MUNDO 2 [40 HORAS] / Com duração de 40 horas / Com aproveitamento superior a 70% / 7 de agosto de 2021 / Código do Certificado: 238DC-67AC-7 / *Certificado válido, amparado pela Lei nº 9.394 de Diretrizes e Bases da Educação Nacional
+Digirati Informática, Serviços E Telecomunicações LTDA – CNPJ: 04.371.843/0001-55">
+
 <img src="https://raw.githubusercontent.com/KaueGuimaraes/Certificados/main/show/python-03.jpg" alt="cursoemvideo / Certificado / Certificamos que / Kauê Guimarães / Assistiu vídeo-aulas do curso / PYTHON 3 - MUNDO 3 [40 HORAS] / Com duração de 40 horas / Com aproveitamento superior a 70% / 7 de agosto de 2021 / Código do Certificado: 238DC-685A-2 / *Certificado válido, amparado pela Lei nº 9.394 de Diretrizes e Bases da Educação Nacional
 Digirati Informática, Serviços E Telecomunicações LTDA – CNPJ: 04.371.843/0001-55">
